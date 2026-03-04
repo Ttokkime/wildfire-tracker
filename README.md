@@ -1,4 +1,4 @@
-# 🔥 Wildfire Tracker
+# Wildfire Tracker
 
 A React-based single-page application that monitors global wildfire activity in real time using NASA's EONET REST API and Google Maps.
 
